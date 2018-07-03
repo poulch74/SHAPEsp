@@ -1,5 +1,6 @@
 # SHAPEsp
-Draft version
+> Draft version.
+
 SHAPEsp - Esp8266 based Smart Home Automation Platform
 
 Main goals of this project:
