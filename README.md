@@ -5,3 +5,5 @@ SHAPEsp - Esp8266 based Smart Home Automation Platform
 ![SHAPEsp](images/shapesp.png)
 
 # Photo
+![SHAPEsp relay](images/relay.jpg)
+![SHAPEsp valve](images/valve.jpg)
