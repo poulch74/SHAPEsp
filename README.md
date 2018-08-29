@@ -4,7 +4,7 @@
 SHAPEsp - Esp8266 based Smart Home Automation Platform
 
 Main goals of this project:
-  - One PCB fits in differnt lowcost cases avialable from AliExpress (cheap blue motorized ball valve, DIN rail case etc).
+  - One PCB fits in different lowcost cases avialable from AliExpress (cheap blue motorized ball valve, DIN rail case etc).
   - Can be flashed with ESPurna firmware
   - Direct control for DC-motor or Relay via H-bridge TB6612 (can be configured with PWM)
   - Autostop mode for motorized ball valve
